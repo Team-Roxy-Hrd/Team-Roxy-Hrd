@@ -20,7 +20,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-022c22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=34D399" alt="LinkedIn">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Team-Roxy-Hrd&amp;style=for-the-badge&amp;color=065f46&amp;label=PROFILE+VIEWS" alt="Profile views">
+<a href="https://github.com/Team-Roxy-Hrd">
+<img src="https://img.shields.io/badge/GitHub-Team--Roxy--Hrd-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+</a>
 
 <br><br>
 
