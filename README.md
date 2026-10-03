@@ -1,82 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:022c22,70:065f46,100:0891b2&height=220&section=header&text=HOSSAM%20HASSAN&fontSize=48&fontColor=ECFDF5&fontAlignY=38&desc=AI%20%26%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=17&descColor=A7F3D0&animation=fadeIn" width="100%" alt="Hossam Hassan Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:022c22,70:065f46,100:0891b2&height=220&section=header&text=HOSSAM%20HASSAN&fontSize=48&fontColor=ECFDF5&fontAlignY=38&desc=AI%20%26%20SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=17&descColor=A7F3D0&animation=fadeIn" width="100%"/>
 
-<br/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Python+%7C+Backend+%7C+Software+Engineering;Building+Practical+AI-Powered+Systems;Always+Learning.+Always+Building." alt="Typing SVG"/>
+
+<br><br>
 
 <a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=720&lines=Building+Intelligent+Systems;Machine+Learning+%7C+NLP+%7C+LLMs;Retrieval-Augmented+Generation;Python+%7C+FastAPI+%7C+Backend;Learning+by+Building+Real+Projects" alt="Typing Animation"/>
-</a>
-
-<br/>
-
-<p>
-<a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://img.shields.io/badge/GitHub-Team--Roxy--Hrd-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/hossam-hassan-306512202">
-<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-022c22?style=for-the-badge&logo=linkedin&logoColor=34D399"/>
 </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Team-Roxy-Hrd&label=PROFILE%20VIEWS&color=10B981&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Team-Roxy-Hrd&style=for-the-badge&color=065f46&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-### `AI` × `Software Engineering` × `Real Systems`
-
-</div>
-
----
-
-## `01` — About Me
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="middle">
 
-### Hello, I'm Hossam.
+## 👋 About Me
 
-I'm an **Artificial Intelligence student** interested in building practical intelligent systems and backend applications.
+I'm **Hossam Hassan**, an **Artificial Intelligence student** interested in building practical software systems powered by AI.
 
-My main interests are:
+My main interests include:
 
 * 🤖 Machine Learning & Deep Learning
 * 🧠 Natural Language Processing
-* 🔎 LLM Applications & RAG
-* 🐍 Python & Backend Engineering
-* 📊 Data Engineering
-* ⚙️ Production-oriented AI Systems
+* 🐍 Python & Backend Development
+* ⚙️ Software Engineering
+* 🔎 Retrieval-Augmented Generation
+* 📊 Data-driven applications
+* 🛠️ Building real-world AI systems
 
-I learn primarily by **building, testing, evaluating, and improving real projects**.
+I enjoy turning ideas into working systems — from data processing and machine learning pipelines to APIs, intelligent applications, and end-to-end projects.
+
+<br>
+
+### 🧩 Current Focus
+
+```text
+AI / ML
+ ├── NLP
+ ├── Deep Learning
+ ├── RAG Systems
+ └── Model Evaluation
+
+Software Engineering
+ ├── Python
+ ├── Backend APIs
+ ├── Databases
+ └── System Design
+```
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-### Current Direction
+<img src="./hossam.png" width="330" alt="Hossam Hassan"/>
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        ├── NLP
-        └── LLM Applications
-                │
-                ▼
-             RAG
-                │
-                ▼
-       Backend Engineering
-                │
-                ▼
-        Reliable AI Systems
-```
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=6EE7B7&center=true&vCenter=true&width=350&lines=AI+%2B+Software;Build.+Learn.+Improve.;Turning+Ideas+Into+Systems." alt="Profile animation"/>
 
 </td>
 </tr>
@@ -84,414 +74,357 @@ Artificial Intelligence
 
 ---
 
-## `02` — Currently Building
+## 🧠 What I'm Working On
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Retrieval-Augmented+Generation;Documents+%E2%86%92+Embeddings+%E2%86%92+Retrieval+%E2%86%92+LLM;Building+AI+Systems+with+Engineering+in+Mind" alt="RAG Animation"/>
+|    🔬 AI / ML    |   ⚙️ Backend  | 🧩 Intelligent Systems |
+| :--------------: | :-----------: | :--------------------: |
+| Machine Learning |    FastAPI    |           RAG          |
+|        NLP       |   REST APIs   |    LLM Applications    |
+|   Deep Learning  | SQL Databases |      AI Assistants     |
+| Model Evaluation |     Python    |   Data-driven Systems  |
 
 </div>
 
-### RAG Application
+---
 
-A modular **Retrieval-Augmented Generation** application that processes documents, retrieves relevant information, and generates grounded responses with system-generated citations.
+## 🚀 Featured Project
 
-### Architecture
+### 🔎 RAG Knowledge Assistant
+
+A full-stack Retrieval-Augmented Generation application designed to answer questions using information retrieved from uploaded documents.
 
 ```text
-┌───────────────┐
-│   Documents   │
-│ PDF / DOCX /  │
-│      TXT      │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│   Ingestion   │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│ Cleaning &    │
-│   Chunking    │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│  Embeddings   │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│    Qdrant     │
-│ Vector Search │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│   Retrieval   │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│ Context Build │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│      LLM      │
-└───────┬───────┘
-        │
-        ▼
-┌────────────────────┐
-│ Answer + Citations │
-└────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│                     User / Streamlit                      │
+└─────────────────────────────┬─────────────────────────────┘
+                              │
+                              ▼
+┌───────────────────────────────────────────────────────────┐
+│                       FastAPI API                         │
+└─────────────────────────────┬─────────────────────────────┘
+                              │
+                              ▼
+┌───────────────────────────────────────────────────────────┐
+│              Document Processing Pipeline                 │
+│                                                           │
+│     PDF / DOCX / TXT → Cleaning → Chunking               │
+└─────────────────────────────┬─────────────────────────────┘
+                              │
+                              ▼
+┌───────────────────────────────────────────────────────────┐
+│                    Embedding Model                        │
+│                                                           │
+│                  all-MiniLM-L6-v2                         │
+└─────────────────────────────┬─────────────────────────────┘
+                              │
+                              ▼
+┌───────────────────────────────────────────────────────────┐
+│                         Qdrant                            │
+│                    Vector Database                         │
+└─────────────────────────────┬─────────────────────────────┘
+                              │
+                              ▼
+┌───────────────────────────────────────────────────────────┐
+│                    Context Retrieval                      │
+└─────────────────────────────┬─────────────────────────────┘
+                              │
+                              ▼
+┌───────────────────────────────────────────────────────────┐
+│                     LLM Generation                        │
+│                                                           │
+│                Answer + Source Citations                  │
+└───────────────────────────────────────────────────────────┘
 ```
 
-**Stack**
+### Core Concepts
 
-`Python` `FastAPI` `Streamlit` `Qdrant` `Sentence Transformers` `Hugging Face`
+`Document Ingestion` → `Chunking` → `Embeddings` → `Vector Search` → `Context Building` → `LLM` → `Citations`
 
 ---
 
-## `03` — Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="44" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" alt="CSS3"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,js,html,css&theme=dark"/>
 </p>
 
 ### AI / Machine Learning
 
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" alt="Scikit-learn"/>
-
-<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logoColor=10B981&color=065F46" alt="NLP"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&color=047857" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&color=0891B2" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&color=10B981" alt="RAG"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=FBBF24"/>
 </p>
 
 ### Backend & Databases
 
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="42" alt="SQLAlchemy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=sqlalchemy&logoColor=D1FAE5"/>
 </p>
 
-### Data Engineering & Systems
+### Data & Distributed Systems
 
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="42" alt="Apache Kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="42" alt="Apache Spark"/>
-
-<img src="https://img.shields.io/badge/Apache%20NiFi-0D1117?style=for-the-badge&color=0891B2" alt="Apache NiFi"/>
-<img src="https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&color=10B981" alt="PySpark"/>
-<img src="https://img.shields.io/badge/Webots-0D1117?style=for-the-badge&color=047857" alt="Webots"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=FBBF24"/>
+<img src="https://img.shields.io/badge/Apache%20NiFi-111827?style=for-the-badge&logo=apache&logoColor=34D399"/>
 </p>
 
 ---
 
-## `04` — Featured Projects
+## 📂 Selected Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🧠 RAG Application</h3>
+### 📰 Fake News Detection
 
-Document-based Retrieval-Augmented Generation system featuring document ingestion, text processing, embeddings, vector retrieval, LLM generation, and citations.
+NLP project comparing traditional machine learning and deep learning approaches for fake-news classification.
 
-<br/>
+**Technologies**
 
-<code>Python</code> <code>FastAPI</code> <code>Qdrant</code> <code>Streamlit</code>
-
-<br/><br/>
+`Python` `Scikit-learn` `TF-IDF` `Logistic Regression` `LSTM` `GloVe`
 
 <a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://img.shields.io/badge/Explore%20Project-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore RAG"/>
+<img src="https://img.shields.io/badge/View%20Projects-065f46?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 Autonomous Robot</h3>
+### 🅿️ Smart Parking Analytics
 
-Webots e-puck simulation implementing line following, obstacle avoidance, line recovery, and search behavior.
+A data-processing pipeline for parking events using distributed and streaming technologies.
 
-<br/>
+**Technologies**
 
-<code>Python</code> <code>Webots</code> <code>Robotics</code>
+`Kafka` `Apache NiFi` `Apache Spark` `PySpark`
 
-<br/><br/>
+<a href="https://github.com/Team-Roxy-Hrd">
+<img src="https://img.shields.io/badge/View%20Projects-065f46?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Autonomous Robot Navigation
+
+Webots-based robotics project involving line following and obstacle avoidance using an e-puck robot.
+
+**Technologies**
+
+`Webots` `C` `Sensors` `Robot Control`
 
 <a href="https://github.com/Team-Roxy-Hrd/Line_Following_with_Obstacle_Avoidness">
-<img src="https://img.shields.io/badge/Explore%20Project-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Robotics"/>
+<img src="https://img.shields.io/badge/View%20Repository-022c22?style=for-the-badge&logo=github&logoColor=34D399"/>
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-<h3>📰 Fake News Detection</h3>
+### 💳 Paylio
 
-NLP classification system comparing traditional machine learning with deep learning approaches using TF-IDF, Logistic Regression, LSTM, and GloVe.
+A software project focused on building practical application functionality with a structured development approach.
 
-<br/>
+**Technologies**
 
-<code>Python</code> <code>NLP</code> <code>PyTorch</code> <code>Scikit-learn</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📊 Smart Parking Analytics</h3>
-
-Streaming data pipeline for processing parking events using Kafka, Apache NiFi, Spark, and PySpark.
-
-<br/>
-
-<code>Kafka</code> <code>NiFi</code> <code>Spark</code> <code>PySpark</code>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>💳 Paylio</h3>
-
-Web application for online payments and financial transactions with transfers, bill payments, authentication, multilingual support, and responsive design.
-
-<br/>
-
-<code>PHP</code> <code>MySQL</code> <code>Bootstrap</code>
-
-<br/><br/>
+`PHP` `JavaScript` `HTML` `CSS`
 
 <a href="https://github.com/Team-Roxy-Hrd/paylio_project">
-<img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="Paylio Repository"/>
+<img src="https://img.shields.io/badge/View%20Repository-022c22?style=for-the-badge&logo=github&logoColor=34D399"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Parallel Sudoku Solver
+
+A systems-oriented project exploring parallel approaches to Sudoku solving.
+
+**Technologies**
+
+`C++` `Parallel Computing` `Algorithms`
+
+<a href="https://github.com/Team-Roxy-Hrd/Parallel-Sudoku-Solver">
+<img src="https://img.shields.io/badge/View%20Repository-022c22?style=for-the-badge&logo=github&logoColor=34D399"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🧩 Parallel Sudoku Solver</h3>
+### 💰 موازنتي
 
-Java Sudoku solver implementing parallel execution as part of a systems/programming project.
+An educational application designed to explain Egypt's citizen budget concepts in a simple and interactive way.
 
-<br/>
+**Focus**
 
-<code>Java</code> <code>Parallel Programming</code>
-
-<br/><br/>
-
-<a href="https://github.com/Team-Roxy-Hrd/Parallel-Sudoku-Solver">
-<img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Sudoku Repository"/>
-</a>
+`AI` `Arabic NLP` `Streamlit` `Educational Technology`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `05` — Engineering Mindset
+## 🧭 Engineering Mindset
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Evaluate+%E2%86%92+Improve;From+AI+Concepts+to+Working+Systems;Engineering+Matters+Beyond+the+Model" alt="Engineering Mindset"/>
-
-</div>
-
-I focus on turning concepts into working systems and then improving them through:
 
 ```text
-Architecture
-     ↓
-Implementation
-     ↓
-Testing
-     ↓
-Evaluation
-     ↓
-Optimization
-     ↓
-Documentation
+        ┌───────────────┐
+        │     IDEA      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    LEARN      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     BUILD     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     TEST      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    IMPROVE    │
+        └───────┬───────┘
+                │
+                └──────────────► 🔁
 ```
 
-My goal is not only to make an AI model work, but to understand how the complete system around it should work.
-
----
-
-## `06` — GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Team-Roxy-Hrd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=22D3EE&text_color=D1FAE5&ring_color=10B981" alt="GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Roxy-Hrd&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=D1FAE5" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Team-Roxy-Hrd&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=22D3EE&currStreakLabel=10B981&sideLabels=D1FAE5&dates=94A3B8" alt="GitHub Streak"/>
+**Build systems. Measure results. Learn from failures. Improve continuously.**
 
 </div>
 
 ---
 
-## `07` — Contribution Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Team-Roxy-Hrd&bg_color=0D1117&color=10B981&line=22D3EE&point=FFFFFF&area_color=065F46&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Team-Roxy-Hrd&show_icons=true&theme=transparent&hide_border=true&title_color=34D399&icon_color=22D3EE&text_color=D1FAE5&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Roxy-Hrd&layout=compact&theme=transparent&hide_border=true&title_color=34D399&text_color=D1FAE5&bg_color=00000000" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Team-Roxy-Hrd&theme=transparent&hide_border=true&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideLabels=A7F3D0&dates=94A3B8&background=00000000" width="70%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Team-Roxy-Hrd&bg_color=00000000&color=A7F3D0&line=34D399&point=22D3EE&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## `08` — What I'm Exploring
+## 🔭 Currently Exploring
+
+<div align="center">
+
+`RAG` · `LLM Applications` · `NLP` · `Deep Learning` · `FastAPI` · `Backend Engineering` · `Distributed Systems` · `AI Agents`
+
+</div>
+
+---
+
+## 🎯 Goals
 
 <table align="center">
 <tr>
-<td align="center" width="160">
-
-### 🤖
-
-**AI / ML**
-
-</td>
-
-<td align="center" width="160">
+<td align="center" width="25%">
 
 ### 🧠
 
-**NLP**
+**Learn**
+
+Deepen AI & ML knowledge
 
 </td>
 
-<td align="center" width="160">
+<td align="center" width="25%">
 
-### 🔎
+### 🛠️
 
-**RAG**
+**Build**
 
-</td>
-
-<td align="center" width="160">
-
-### ⚡
-
-**FastAPI**
+Real-world intelligent systems
 
 </td>
 
-</tr>
+<td align="center" width="25%">
 
-<tr>
+### 📈
 
-<td align="center">
+**Improve**
 
-### 📊
-
-**Data Engineering**
+Engineering & problem-solving skills
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 🐍
+### 🌍
 
-**Python**
+**Contribute**
 
-</td>
-
-<td align="center">
-
-### 🏗️
-
-**Backend**
+Create useful technology
 
 </td>
-
-<td align="center">
-
-### ⚙️
-
-**Systems**
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-## `09` — Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Team--Roxy--Hrd-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/hossam-hassan-306512202">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-022c22?style=for-the-badge&logo=linkedin&logoColor=34D399"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<a href="https://github.com/Team-Roxy-Hrd?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-065F46?style=for-the-badge&logo=github&logoColor=ECFDF5" alt="Explore Projects"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful.;AI+%2B+Engineering+%2B+Curiosity." alt="Footer animation"/>
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Building+intelligent+systems%2C+one+project+at+a+time.;AI+%7C+Software+Engineering+%7C+Continuous+Learning" alt="Footer Animation"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:065f46,100:020617&height=120&section=footer" width="100%" alt="Footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,35:065f46,70:022c22,100:020617&height=120&section=footer&animation=fadeIn" width="100%"/>
