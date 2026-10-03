@@ -1,24 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:065f46,100:0891b2&height=170&section=header&text=Hossam%20Hassan&fontSize=44&fontColor=ecfdf5&fontAlignY=40" alt="Hossam Hassan" width="100%" />
+# Hossam Hassan
 
-<h2>AI & Software Engineering Student</h2>
+### AI & Software Engineering Student
 
-<a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Practical+AI+applications;LLM+%26+RAG+projects;Backend+solutions+with+Python" alt="Typing animation" />
-</a>
-
-<p>
-Building intelligent systems, practical AI applications,<br/>
-and backend solutions with Python.
-</p>
+**Artificial Intelligence · Machine Learning · NLP · LLM Applications · Backend Engineering**
 
 <p>
 <a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://img.shields.io/badge/GitHub-Team--Roxy--Hrd-0d1117?style=for-the-badge&logo=github&logoColor=10b981" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/hossam-hassan-306512202">
-<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
@@ -26,265 +19,255 @@ and backend solutions with Python.
 
 ---
 
-## 🧠 About Me
+## About
 
-|    |                                            |
-| -- | ------------------------------------------ |
-| 🎓 | AI & Software Engineering Student          |
-| 🤖 | Building AI/ML and LLM applications        |
-| 🐍 | Python & Backend Development               |
-| 🧠 | NLP · RAG · Deep Learning                  |
-| ⚙️ | Interested in production-oriented software |
-| 🚀 | Learning by building real projects         |
+I am an **Artificial Intelligence student** focused on building practical software systems across **AI/ML, NLP, LLM applications, and backend development**.
+
+My approach is project-driven: I learn concepts by implementing them, evaluating the results, and improving the engineering quality of the system.
+
+**Current interests:**
+
+* Machine Learning & Deep Learning
+* Natural Language Processing
+* LLM Applications & RAG
+* Python Backend Development
+* Data Engineering
+* Production-oriented AI Systems
 
 ---
 
-## 🚀 Currently Building
+## Current Project
 
-### 📚 RAG Application
+### Retrieval-Augmented Generation Application
 
-A document-based **Retrieval-Augmented Generation** application built around a complete ingestion-to-answer pipeline.
+A modular RAG application designed to process documents, retrieve relevant information, and generate grounded responses with system-generated citations.
 
-**Stack:** FastAPI · Streamlit · Qdrant · Sentence Transformers · Hugging Face
+**Architecture**
+
+```text
+Documents
+    │
+    ▼
+Ingestion
+    │
+    ▼
+Cleaning & Chunking
+    │
+    ▼
+Embeddings
+    │
+    ▼
+Vector Database
+    │
+    ▼
+Similarity Retrieval
+    │
+    ▼
+Context Construction
+    │
+    ▼
+LLM
+    │
+    ▼
+Answer + Citations
+```
+
+**Technologies**
+
+`Python` `FastAPI` `Streamlit` `Qdrant` `Sentence Transformers` `Hugging Face`
+
+The project focuses on modular architecture, document processing, semantic retrieval, and building reliable AI application workflows.
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
+</p>
+
+`SQL`
+
+### AI / Machine Learning
+
+`PyTorch` `Scikit-learn` `NLP` `Deep Learning` `LLMs` `RAG`
+
+### Backend & Databases
+
+`FastAPI` `REST APIs` `SQLAlchemy` `SQLite` `MySQL`
+
+### Data & Distributed Systems
+
+`Apache Kafka` `Apache NiFi` `Apache Spark` `PySpark`
+
+### Robotics & Simulation
+
+`Webots` `e-puck`
+
+---
+
+## Selected Projects
+
+### RAG Application
+
+Document-based Retrieval-Augmented Generation system with document ingestion, text processing, embeddings, vector retrieval, LLM generation, and system-generated citations.
+
+**Technologies:** Python · FastAPI · Streamlit · Qdrant · Sentence Transformers · Hugging Face
+
+<a href="https://github.com/Team-Roxy-Hrd">
+Repository →
+</a>
+
+---
+
+### Fake News Detection
+
+NLP classification project comparing traditional machine learning and deep learning approaches for fake-news detection.
+
+The project includes TF-IDF with Logistic Regression and an LSTM model using GloVe embeddings, with evaluation based on classification metrics.
+
+**Technologies:** Python · Scikit-learn · PyTorch · NLP · TF-IDF · LSTM · GloVe
+
+---
+
+### Smart Parking Analytics
+
+Data engineering pipeline for processing parking events through a distributed streaming architecture.
 
 **Pipeline:**
 
 ```text
-Document
-   ↓
-Ingestion
-   ↓
-Cleaning & Chunking
-   ↓
-Embeddings
-   ↓
-Qdrant
-   ↓
-Retrieval
-   ↓
-Context Building
-   ↓
-LLM
-   ↓
-Answer + Citations
+Kafka
+  ↓
+Apache NiFi
+  ↓
+Apache Spark / PySpark
+  ↓
+Processed Parking Data
 ```
 
-The project focuses on building a practical RAG system with modular architecture, document processing, vector retrieval, and system-generated citations.
+**Technologies:** Apache Kafka · Apache NiFi · Apache Spark · PySpark
 
 ---
 
-## 🛠️ Tech Stack
+### Autonomous Robot Navigation
 
-### 💻 Languages
+Webots simulation of an e-puck robot implementing sensor-based line following, obstacle avoidance, line recovery, and search behavior.
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logoColor=10B981&labelColor=0d1117&color=0891b2" alt="SQL"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" height="40"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&color=0891b2" alt="NLP"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&color=0891b2" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&color=0891b2" alt="LLM"/>
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&color=0891b2" alt="RAG"/>
-</p>
-
-### ⚡ Backend & Databases
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/>
-</p>
-
-### 📊 Data Engineering & Robotics
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" height="40"/>
-<img src="https://img.shields.io/badge/Apache%20NiFi-0d1117?style=for-the-badge&color=0891b2" alt="Apache NiFi"/>
-<img src="https://img.shields.io/badge/Webots-0d1117?style=for-the-badge&color=0891b2" alt="Webots"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 RAG Application
-
-Document-based Retrieval-Augmented Generation application with document ingestion, chunking, embeddings, vector retrieval, LLM generation, and system-generated citations.
-
-**Stack:** Python · FastAPI · Streamlit · Qdrant · Sentence Transformers · Hugging Face
-
-<a href="https://github.com/Team-Roxy-Hrd">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Line Following Robot
-
-Webots simulation of an e-puck robot using sensor-based control for line following, obstacle avoidance, line recovery, and search behavior.
-
-**Stack:** Python · Webots · e-puck
+**Technologies:** Python · Webots · Robotics · Sensor-based Control
 
 <a href="https://github.com/Team-Roxy-Hrd/Line_Following_with_Obstacle_Avoidness">
-View Repository →
+Repository →
 </a>
 
-</td>
+---
 
-</tr>
+### Paylio
 
-<tr>
+Web application focused on online payments and financial transactions, including money transfers, bill payments, authentication, multilingual support, and responsive UI.
 
-<td width="50%" valign="top">
-
-### 💳 Paylio
-
-Web application for online payments and financial transactions with money transfers, bill payments, multilingual support, responsive design, and authentication.
-
-**Stack:** PHP · Bootstrap · MySQL
+**Technologies:** PHP · MySQL · Bootstrap
 
 <a href="https://github.com/Team-Roxy-Hrd/paylio_project">
-View Repository →
+Repository →
 </a>
 
-</td>
+---
 
-<td width="50%" valign="top">
+### Parallel Sudoku Solver
 
-### 🧩 Parallel Sudoku Solver
+Java-based Sudoku solver implementing parallel execution as part of a systems/programming project.
 
-Java Sudoku solver built around parallel execution, accompanied by a project report.
-
-**Stack:** Java
+**Technologies:** Java · Parallel Programming
 
 <a href="https://github.com/Team-Roxy-Hrd/Parallel-Sudoku-Solver">
-View Repository →
+Repository →
 </a>
 
-</td>
+---
 
-</tr>
-</table>
+## Engineering Focus
 
-<p align="center">
-<a href="https://github.com/Team-Roxy-Hrd?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=10B981" alt="View all repositories"/>
-</a>
-</p>
+```text
+AI / ML
+   │
+   ├── Machine Learning
+   ├── Deep Learning
+   ├── NLP
+   └── LLM Applications
+            │
+            ▼
+       RAG Systems
+            │
+            ▼
+     Backend Engineering
+            │
+            ▼
+    Reliable AI Applications
+```
+
+I am particularly interested in the engineering side of AI:
+
+* Designing modular systems
+* Building APIs around AI models
+* Working with structured and unstructured data
+* Evaluating model and retrieval performance
+* Connecting AI components into usable applications
+* Improving reliability and maintainability
 
 ---
 
-## 🧠 Current Focus
+## Development Approach
 
-<table>
-<tr>
-<td>🤖</td>
-<td><b>LLM Applications</b></td>
-</tr>
-<tr>
-<td>🔎</td>
-<td><b>Retrieval-Augmented Generation</b></td>
-</tr>
-<tr>
-<td>⚡</td>
-<td><b>FastAPI & Backend Engineering</b></td>
-</tr>
-<tr>
-<td>🧠</td>
-<td><b>NLP & Deep Learning</b></td>
-</tr>
-<tr>
-<td>📊</td>
-<td><b>Data Engineering</b></td>
-</tr>
-<tr>
-<td>⚙️</td>
-<td><b>Production-oriented AI Systems</b></td>
-</tr>
-</table>
+> **Learn → Build → Evaluate → Improve**
+
+I prefer learning through implementation rather than isolated experimentation.
+
+For each project, I aim to move beyond a working prototype toward better:
+
+**Architecture · Reliability · Evaluation · Maintainability**
 
 ---
 
-## ⚙️ How I Build
+## GitHub Activity
 
-> I learn by building.
+<div align="center">
 
-I focus on turning concepts into working systems, then improving their **reliability, evaluation, and engineering quality**.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Team-Roxy-Hrd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=22d3ee&text_color=d1fae5" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Team-Roxy-Hrd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=22d3ee&text_color=d1fae5" alt="GitHub Statistics"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Roxy-Hrd&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=d1fae5" alt="Top Languages"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Team-Roxy-Hrd&theme=dark&hide_border=true&background=0d1117&ring=10b981&fire=22d3ee&currStreakLabel=10b981" alt="GitHub Streak"/>
-
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## Connect
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Team-Roxy-Hrd&bg_color=0d1117&color=10b981&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://img.shields.io/badge/GitHub-Team--Roxy--Hrd-0d1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://linkedin.com/in/hossam-hassan-306512202">
-<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-0d1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<i>Building intelligent systems, one project at a time.</i>
+**Building practical AI systems with a software engineering mindset.**
 
 </div>
