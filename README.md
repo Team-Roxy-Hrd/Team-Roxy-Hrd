@@ -4,7 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Artificial+Intelligence+Student;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Python+%7C+Backend+%7C+Software+Engineering;Building+Practical+AI-Powered+Systems;Always+Learning.+Always+Building." alt="Typing animation">
+<img src="./hossam.png" width="260" alt="Hossam Hassan">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=900&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Artificial+Intelligence+Student;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Python+%7C+Backend+%7C+Software+Engineering;Building+Practical+AI-Powered+Systems;Always+Learning.+Always+Building." alt="Typing animation">
 
 <br><br>
 
@@ -18,58 +22,54 @@
 
 <img src="https://komarev.com/ghpvc/?username=Team-Roxy-Hrd&amp;style=for-the-badge&amp;color=065f46&amp;label=PROFILE+VIEWS" alt="Profile views">
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;duration=3500&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+%2B+Software+Engineering;Building+with+Purpose;Turning+Ideas+Into+Systems" alt="Engineering animation">
+
 </div>
 
 ---
 
-<table>
-<tr>
-
-<td width="58%" valign="middle">
+<div align="center">
 
 ## 👋 About Me
 
-I'm **Hossam Hassan**, an **Artificial Intelligence student** interested in building practical software systems powered by AI.
+**AI & Software Engineering Student**
 
-My main interests include:
+Building practical intelligent systems with a focus on:
 
-* 🤖 Machine Learning and Deep Learning
-* 🧠 Natural Language Processing
-* 🐍 Python and Backend Development
-* ⚙️ Software Engineering
-* 🔎 Retrieval-Augmented Generation
-* 📊 Data-driven applications
-* 🛠️ Building real-world AI systems
+`Machine Learning` · `NLP` · `Deep Learning` · `RAG` · `Python` · `Backend`
 
-I enjoy turning ideas into working systems — from data processing and machine learning pipelines to APIs, intelligent applications, and end-to-end projects.
+I enjoy transforming ideas into real software — from data processing and machine learning pipelines to APIs, intelligent applications, and complete end-to-end systems.
+
+</div>
 
 <br>
 
-### 🧩 Current Focus
+<table>
+<tr>
 
-```text
-AI / ML
- ├── NLP
- ├── Deep Learning
- ├── RAG Systems
- └── Model Evaluation
+<td width="50%" valign="top">
 
-Software Engineering
- ├── Python
- ├── Backend APIs
- ├── SQL Databases
- └── System Design
-```
+### 🧠 AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* RAG Systems
+* Model Evaluation
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img src="./hossam.png" width="330" alt="Hossam Hassan">
+### ⚙️ Software Engineering
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;duration=2500&amp;pause=700&amp;color=6EE7B7&amp;center=true&amp;vCenter=true&amp;width=350&amp;lines=AI+%2B+Software;Build.+Learn.+Improve.;Turning+Ideas+Into+Systems." alt="Profile animation">
+* Python
+* Backend Development
+* FastAPI
+* REST APIs
+* SQL Databases
 
 </td>
 
@@ -83,6 +83,7 @@ Software Engineering
 <div align="center">
 
 <table>
+
 <tr>
 <th>🔬 AI / ML</th>
 <th>⚙️ Backend</th>
@@ -164,7 +165,7 @@ A full-stack Retrieval-Augmented Generation application designed to answer quest
 ┌───────────────────────────────────────────────────────────┐
 │                     LLM Generation                        │
 │                                                           │
-│                Answer + Source Citations                 │
+│                Answer + Source Citations                  │
 └───────────────────────────────────────────────────────────┘
 ```
 
@@ -492,10 +493,8 @@ Create useful technology
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891b2,35:065f46,70:022c22,100:020617&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer">
 
----
-
 <div align="center">
 
-### ⚡ Build. Learn. Improve.
+**⚡ Build. Learn. Improve.**
 
 </div>
