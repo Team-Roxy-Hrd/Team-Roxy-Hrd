@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:022c22,70:065f46,100:0891b2&height=180&section=header&text=HOSSAM%20HASSAN&fontSize=46&fontColor=ECFDF5&fontAlignY=38&desc=AI%20%26amp%3B%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=17&descColor=A7F3D0&animation=fadeIn" width="100%" alt="Hossam Hassan Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0F172A,70:172554,100:312E81&height=180&section=header&text=HOSSAM%20HASSAN&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%26amp%3B%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=17&descColor=BAE6FD&animation=fadeIn" width="100%" alt="Hossam Hassan Header">
 
 <table>
 <tr>
@@ -25,11 +25,11 @@ Building intelligent systems, machine learning solutions, and production-oriente
 <br><br>
 
 <a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub">
 </a>
 
 <a href="https://linkedin.com/in/hossam-hassan-306512202">
-<img src="https://img.shields.io/badge/LinkedIn-022c22?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn">
 </a>
 
 </td>
@@ -99,8 +99,10 @@ A full-stack Retrieval-Augmented Generation application for asking questions ove
 
 `Python` `FastAPI` `Streamlit` `Qdrant` `Sentence Transformers`
 
+<br>
+
 <a href="https://github.com/Team-Roxy-Hrd/rag-application">
-<img src="https://img.shields.io/badge/Repository-065f46?style=for-the-badge&logo=github&logoColor=white" alt="RAG Repository">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="RAG Repository">
 </a>
 
 </td>
@@ -143,8 +145,10 @@ Webots robotics project combining line following and obstacle avoidance using an
 
 `Webots` `C` `Sensors` `Robot Control`
 
+<br>
+
 <a href="https://github.com/Team-Roxy-Hrd/Line_Following_with_Obstacle_Avoidness">
-<img src="https://img.shields.io/badge/Repository-022c22?style=for-the-badge&logo=github&logoColor=34D399" alt="Robot Repository">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-312E81?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="Robot Repository">
 </a>
 
 </td>
@@ -163,8 +167,10 @@ Web application focused on practical software development and database-backed fu
 
 `PHP` `JavaScript` `HTML` `CSS` `MySQL`
 
+<br>
+
 <a href="https://github.com/Team-Roxy-Hrd/paylio_project">
-<img src="https://img.shields.io/badge/Repository-022c22?style=for-the-badge&logo=github&logoColor=34D399" alt="Paylio Repository">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-312E81?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="Paylio Repository">
 </a>
 
 </td>
@@ -179,8 +185,10 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 `C++` `Parallel Computing` `Algorithms`
 
+<br>
+
 <a href="https://github.com/Team-Roxy-Hrd/Parallel-Sudoku-Solver">
-<img src="https://img.shields.io/badge/Repository-022c22?style=for-the-badge&logo=github&logoColor=34D399" alt="Sudoku Repository">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-312E81?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="Sudoku Repository">
 </a>
 
 </td>
@@ -206,7 +214,7 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=FBBF24" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Scikit--Learn-172554?style=for-the-badge&logo=scikit-learn&logoColor=FBBF24" alt="Scikit-learn">
 
 </p>
 
@@ -216,7 +224,7 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <img src="https://skillicons.dev/icons?i=fastapi,sqlite,mysql&theme=dark" alt="Backend Technologies">
 
-<img src="https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=sqlalchemy&logoColor=D1FAE5" alt="SQLAlchemy">
+<img src="https://img.shields.io/badge/SQLAlchemy-172554?style=for-the-badge&logo=sqlalchemy&logoColor=93C5FD" alt="SQLAlchemy">
 
 </p>
 
@@ -226,9 +234,9 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka">
 
-<img src="https://img.shields.io/badge/Apache%20Spark-111827?style=for-the-badge&logo=apachespark&logoColor=FBBF24" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Apache%20Spark-172554?style=for-the-badge&logo=apachespark&logoColor=FBBF24" alt="Apache Spark">
 
-<img src="https://img.shields.io/badge/Apache%20NiFi-111827?style=for-the-badge&logo=apache&logoColor=34D399" alt="Apache NiFi">
+<img src="https://img.shields.io/badge/Apache%20NiFi-172554?style=for-the-badge&logo=apache&logoColor=60A5FA" alt="Apache NiFi">
 
 </p>
 
@@ -238,51 +246,46 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <div align="center">
 
-`Machine Learning`
-`Deep Learning`
-`NLP`
-`Information Retrieval`
-`RAG Systems`
-`LLM Applications`
-`AI Agents`
-`Backend Engineering`
-`Distributed Systems`
-`Data Processing`
+`Machine Learning` · `Deep Learning` · `NLP` · `Information Retrieval`
+
+`RAG Systems` · `LLM Applications` · `AI Agents`
+
+`Backend Engineering` · `Distributed Systems` · `Data Processing`
 
 </div>
 
 ---
 
-## 🔬 How I Build
+## 🔬 Engineering Approach
 
 <div align="center">
 
 ```text
-┌───────────────┐
-│     IDEA      │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│    EXPLORE    │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│     BUILD     │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│     TEST      │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│    IMPROVE    │
-└───────┬───────┘
-        │
-        └──────────────► 🔁
+             ┌───────────────┐
+             │      IDEA     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    EXPLORE    │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │     BUILD     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │     TEST      │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    IMPROVE    │
+             └───────┬───────┘
+                     │
+                     └──────────────► 🔁
 ```
 
 **Build systems. Measure results. Improve continuously.**
@@ -295,9 +298,9 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Team-Roxy-Hrd&show_icons=true&theme=transparent&hide_border=true&title_color=34D399&icon_color=22D3EE&text_color=D1FAE5&bg_color=00000000" height="170" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=Team-Roxy-Hrd&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&bg_color=00000000" height="170" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Roxy-Hrd&layout=compact&theme=transparent&hide_border=true&title_color=34D399&text_color=D1FAE5&bg_color=00000000" height="170" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Roxy-Hrd&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&bg_color=00000000" height="170" alt="Top Languages">
 
 </div>
 
@@ -305,7 +308,7 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Team-Roxy-Hrd&theme=transparent&hide_border=true&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideLabels=A7F3D0&dates=94A3B8&background=00000000" width="65%" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=Team-Roxy-Hrd&theme=transparent&hide_border=true&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=BAE6FD&dates=94A3B8&background=00000000" width="65%" alt="GitHub Streak">
 
 </div>
 
@@ -315,7 +318,9 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <div align="center">
 
-`LLM Applications` · `RAG` · `NLP` · `Deep Learning` · `FastAPI` · `Backend Engineering` · `AI Agents` · `Distributed Systems`
+`LLM Applications` · `RAG` · `NLP` · `Deep Learning`
+
+`FastAPI` · `Backend Engineering` · `AI Agents` · `Distributed Systems`
 
 </div>
 
@@ -326,11 +331,11 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 <div align="center">
 
 <a href="https://github.com/Team-Roxy-Hrd">
-<img src="https://img.shields.io/badge/GitHub-Team--Roxy--Hrd-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Team--Roxy--Hrd-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub">
 </a>
 
 <a href="https://linkedin.com/in/hossam-hassan-306512202">
-<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-022c22?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Hossam%20Hassan-172554?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn">
 </a>
 
 </div>
@@ -339,11 +344,11 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Building+intelligent+systems.;Turning+ideas+into+software.;AI+%2B+Engineering+%2B+Curiosity." alt="Footer Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems.;Turning+ideas+into+software.;AI+%2B+Engineering+%2B+Curiosity." alt="Footer Animation">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,35:065f46,70:022c22,100:020617&height=100&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:172554,70:0F172A,100:050816&height=100&section=footer" width="100%" alt="Footer">
 
 <div align="center">
 
