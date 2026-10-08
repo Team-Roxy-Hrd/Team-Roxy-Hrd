@@ -1,26 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0F172A,70:172554,100:312E81&height=180&section=header&text=HOSSAM%20HASSAN&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%26amp%3B%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=17&descColor=BAE6FD&animation=fadeIn" width="100%" alt="Hossam Hassan Header">
-
-<table>
-<tr>
-<td width="32%" align="center" valign="middle">
-
-<img src="./hossam.png" width="230" alt="Hossam Hassan">
-
-</td>
-
-<td width="68%" align="left" valign="middle">
-
-# Hossam Hassan
-
-### AI & Software Engineer
-
-Building intelligent systems, machine learning solutions, and production-oriented software.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0F172A,70:172554,100:312E81&height=190&section=header&text=HOSSAM%20HASSAN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%26amp%3B%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=18&descColor=BAE6FD&animation=fadeIn" width="100%" alt="Hossam Hassan Header">
 
 <br>
 
-`Machine Learning` · `NLP` · `Deep Learning` · `Python` · `Backend` · `AI Systems`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+NLP+%7C+Deep+Learning;Python+%7C+Backend+%7C+AI+Systems;Building+Intelligent+Applications;Turning+Ideas+Into+Software" alt="Typing Animation">
 
 <br><br>
 
@@ -32,10 +16,6 @@ Building intelligent systems, machine learning solutions, and production-oriente
 <img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn">
 </a>
 
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -44,18 +24,20 @@ Building intelligent systems, machine learning solutions, and production-oriente
 
 I build **AI-powered applications and software systems** with a focus on turning machine learning concepts into practical, usable products.
 
-My work spans **machine learning, NLP, deep learning, intelligent applications, Python backend development, APIs, and data-driven systems**.
+My work combines **Artificial Intelligence, Machine Learning, NLP, Deep Learning, Python backend development, APIs, and data-driven systems**.
 
-I enjoy working across the complete development process — from data and model development to backend architecture, integration, testing, and deployment.
+I enjoy working across the full development process — from data and model development to backend architecture, integration, testing, and building end-to-end applications.
 
-### Engineering Focus
+---
+
+## 🧠 Engineering Focus
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🧠 Artificial Intelligence
+### Artificial Intelligence
 
 * Machine Learning
 * Deep Learning
@@ -68,7 +50,7 @@ I enjoy working across the complete development process — from data and model 
 
 <td width="50%" valign="top">
 
-### ⚙️ Software Engineering
+### Software Engineering
 
 * Python Development
 * Backend Engineering
@@ -84,7 +66,7 @@ I enjoy working across the complete development process — from data and model 
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Projects
 
 <table>
 <tr>
@@ -93,9 +75,9 @@ I enjoy working across the complete development process — from data and model 
 
 ### 🔎 RAG Knowledge Assistant
 
-A full-stack Retrieval-Augmented Generation application for asking questions over uploaded documents.
+Full-stack Retrieval-Augmented Generation application for asking questions over uploaded documents.
 
-**Stack**
+**Technologies**
 
 `Python` `FastAPI` `Streamlit` `Qdrant` `Sentence Transformers`
 
@@ -113,7 +95,7 @@ A full-stack Retrieval-Augmented Generation application for asking questions ove
 
 NLP classification system comparing traditional machine learning with deep learning approaches.
 
-**Stack**
+**Technologies**
 
 `Python` `Scikit-learn` `TF-IDF` `LSTM` `GloVe`
 
@@ -129,7 +111,7 @@ NLP classification system comparing traditional machine learning with deep learn
 
 Streaming and distributed data-processing pipeline for parking events.
 
-**Stack**
+**Technologies**
 
 `Kafka` `Apache NiFi` `Apache Spark` `PySpark`
 
@@ -141,7 +123,7 @@ Streaming and distributed data-processing pipeline for parking events.
 
 Webots robotics project combining line following and obstacle avoidance using an e-puck robot.
 
-**Stack**
+**Technologies**
 
 `Webots` `C` `Sensors` `Robot Control`
 
@@ -163,7 +145,7 @@ Webots robotics project combining line following and obstacle avoidance using an
 
 Web application focused on practical software development and database-backed functionality.
 
-**Stack**
+**Technologies**
 
 `PHP` `JavaScript` `HTML` `CSS` `MySQL`
 
@@ -181,7 +163,7 @@ Web application focused on practical software development and database-backed fu
 
 Systems-oriented project exploring parallel approaches to solving Sudoku problems.
 
-**Stack**
+**Technologies**
 
 `C++` `Parallel Computing` `Algorithms`
 
@@ -208,7 +190,7 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 </p>
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 <p align="center">
 
@@ -218,7 +200,7 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 </p>
 
-### Backend / Databases
+### Backend & Databases
 
 <p align="center">
 
@@ -228,7 +210,7 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 </p>
 
-### Data / Distributed Systems
+### Data & Distributed Systems
 
 <p align="center">
 
@@ -242,7 +224,7 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 ---
 
-## 🧠 AI & Engineering Interests
+## 🔬 AI & Engineering Interests
 
 <div align="center">
 
@@ -256,36 +238,36 @@ Systems-oriented project exploring parallel approaches to solving Sudoku problem
 
 ---
 
-## 🔬 Engineering Approach
+## ⚙️ Engineering Approach
 
 <div align="center">
 
 ```text
-             ┌───────────────┐
-             │      IDEA     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    EXPLORE    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │     BUILD     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │     TEST      │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    IMPROVE    │
-             └───────┬───────┘
-                     │
-                     └──────────────► 🔁
+                    ┌───────────────┐
+                    │      IDEA     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    EXPLORE    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     BUILD     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     TEST      │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    IMPROVE    │
+                    └───────┬───────┘
+                            │
+                            └──────────────► 🔁
 ```
 
 **Build systems. Measure results. Improve continuously.**
